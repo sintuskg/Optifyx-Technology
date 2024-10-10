@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* body{
+    background-color: #212121;
+    color: aqua;
+} */
+.header{
+    text-align: center;
+    margin: 10p;
+    font-style: oblique;
+    background-color: rgb(76 29 149);
+    color: aquamarine;
+}
+.car{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/car.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    
+     
+}
+.hi{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/rode.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.img{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/img.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.rode{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/hi.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.bye{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/my.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+ 
+ #all{
+    font-size: 65px;
+    font-weight: bold;
+    text-transform: uppercase0;
+    color: aliceblue;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+ }
